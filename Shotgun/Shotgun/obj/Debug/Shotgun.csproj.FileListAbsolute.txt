@@ -1,0 +1,13 @@
+C:\Users\olivi\source\repos\Shotgun\Shotgun\bin\Debug\Shotgun.exe.config
+C:\Users\olivi\source\repos\Shotgun\Shotgun\bin\Debug\Shotgun.exe
+C:\Users\olivi\source\repos\Shotgun\Shotgun\bin\Debug\Shotgun.pdb
+C:\Users\olivi\source\repos\Shotgun\Shotgun\obj\Debug\Shotgun.csproj.AssemblyReference.cache
+C:\Users\olivi\source\repos\Shotgun\Shotgun\obj\Debug\Shotgun.Properties.Resources.resources
+C:\Users\olivi\source\repos\Shotgun\Shotgun\obj\Debug\Shotgun.csproj.GenerateResource.cache
+C:\Users\olivi\source\repos\Shotgun\Shotgun\obj\Debug\Shotgun.csproj.CoreCompileInputs.cache
+C:\Users\olivi\source\repos\Shotgun\Shotgun\obj\Debug\Shotgun.exe
+C:\Users\olivi\source\repos\Shotgun\Shotgun\obj\Debug\Shotgun.pdb
+C:\Users\olivi\source\repos\Shotgun\Shotgun\obj\Debug\Shotgun.IntroForm.resources
+C:\Users\olivi\source\repos\Shotgun\Shotgun\obj\Debug\Shotgun.Shotgun.resources
+C:\Users\olivi\source\repos\Shotgun\Shotgun\obj\Debug\Shotgun.Game_Over.resources
+C:\Users\olivi\source\repos\Shotgun\Shotgun\obj\Debug\Shotgun.WinForm.resources
